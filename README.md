@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
-- 👨‍💻 All of my projects are available at [https://mwangiwaweru.netlify.app/](https://mwangiwaweru.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mwangiwaweru.netlify.app/](https://joseph-waweru.netlify.app/)
 
 - 💬 Ask me about **Machine learning, Deep learning, Data analysis**
 
